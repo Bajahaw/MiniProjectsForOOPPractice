@@ -1,0 +1,12 @@
+          Owner name    Owner Phonenumber          Owner Email              Arrival       Departure       Name        Age     Gender   Healthy?
+
+     Maria Henderson       +3 659015320      maria.henderson@owner.com    2021/09/07      2021/09/28   NANI snake!     2     Unknown     False
+      Sophie Abraham       +3 677803571       sophie.abraham@owner.com    2022/04/05      2022/11/07   NUTU snake!     0        Male     False
+      Wanda Campbell       +3 648855747       wanda.campbell@owner.com    2021/01/04      2021/10/01   SAKA snake!     2      Female     False
+       Maria Abraham       +3 696960351        maria.abraham@owner.com    2023/09/17      2023/09/26     GAGI cat!     4     Unknown     False
+     Maria Henderson       +3 645384384      maria.henderson@owner.com    2020/09/08      2020/10/14     KULA dog!     3      Female      True
+      Wanda Campbell       +3 686031901       wanda.campbell@owner.com    2022/03/12      2022/08/28    GISA duck!     0      Female     False
+      Brandon Elison       +3 678369884       brandon.elison@owner.com    2021/03/15      2021/03/17     NUKA dog!     0      Female     False
+  Alexandra Campbell       +3 690643677   alexandra.campbell@owner.com    2023/09/03      2023/10/21     TALI dog!     0     Unknown     False
+      Gordon Abraham       +3 680850409       gordon.abraham@owner.com    2020/04/13      2020/10/17     NILU dog!     3        Male     False
+        Wanda Elison       +3 648165389         wanda.elison@owner.com    2022/05/04      2022/10/14     TANI dog!     1     Unknown     False
