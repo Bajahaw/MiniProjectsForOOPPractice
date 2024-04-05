@@ -46,8 +46,8 @@ namespace AnimalHospitalApp
         private Animal generateDog()
         {
             int randomYear = random.Next(2020,2024);
-            int randomMonth = random.Next(1,12);
-            int randomDay = random.Next(1,30);
+            int randomMonth = random.Next(1,13);
+            int randomDay = random.Next(1,31);
             string name = ""+chars[random.Next(chars.Length)]+chars2[random.Next(chars2.Length)]+chars[random.Next(chars.Length)]+chars2[random.Next(chars2.Length)]+" dog!";
             Dog dog = new Dog(new DateTime(randomYear,randomMonth,randomDay),new DateTime(randomYear,randomMonth+random.Next(12-randomMonth),random.Next(1,30)),
                                 random.NextDouble()*100,random.NextDouble()*50,generateRandomOwner(),random.Next(10000,20000),random.Next(5),(Gender)random.Next(3),name,"bark");
@@ -58,8 +58,8 @@ namespace AnimalHospitalApp
         private Animal generateCat()
         {
             int randomYear = random.Next(2020,2024);
-            int randomMonth = random.Next(1,12);
-            int randomDay = random.Next(1,30);
+            int randomMonth = random.Next(1,13);
+            int randomDay = random.Next(1,31);
             string name = ""+chars[random.Next(chars.Length)]+chars2[random.Next(chars2.Length)]+chars[random.Next(chars.Length)]+chars2[random.Next(chars2.Length)]+" cat!";
             Cat cat = new Cat(new DateTime(randomYear,randomMonth,randomDay),new DateTime(randomYear,randomMonth+random.Next(12-randomMonth),random.Next(1,30)),
                                 random.NextDouble()*100,random.NextDouble()*50,generateRandomOwner(),random.Next(10000,20000),random.Next(5),(Gender)random.Next(3),name,"meow");
@@ -68,8 +68,8 @@ namespace AnimalHospitalApp
         private Animal generateSnake()
         {
             int randomYear = random.Next(2020,2024);
-            int randomMonth = random.Next(1,12);
-            int randomDay = random.Next(1,30);
+            int randomMonth = random.Next(1,13);
+            int randomDay = random.Next(1,31);
             string name = ""+chars[random.Next(chars.Length)]+chars2[random.Next(chars2.Length)]+chars[random.Next(chars.Length)]+chars2[random.Next(chars2.Length)]+" snake!";
             Snake snake = new Snake(new DateTime(randomYear,randomMonth,randomDay),new DateTime(randomYear,randomMonth+random.Next(12-randomMonth),random.Next(1,30)),
                                 random.NextDouble()*100,random.NextDouble()*50,generateRandomOwner(),random.Next(10000,20000),random.Next(5),(Gender)random.Next(3),name);
@@ -78,8 +78,8 @@ namespace AnimalHospitalApp
         private Animal generateDuck()
         {
             int randomYear = random.Next(2020,2024);
-            int randomMonth = random.Next(1,12);
-            int randomDay = random.Next(1,30);
+            int randomMonth = random.Next(1,13);
+            int randomDay = random.Next(1,31);
             string name = ""+chars[random.Next(chars.Length)]+chars2[random.Next(chars2.Length)]+chars[random.Next(chars.Length)]+chars2[random.Next(chars2.Length)]+" duck!";
             Duck duck = new Duck(new DateTime(randomYear,randomMonth,randomDay),new DateTime(randomYear,randomMonth+random.Next(12-randomMonth),random.Next(1,30)),
                                 random.NextDouble()*100,random.NextDouble()*50,generateRandomOwner(),random.Next(10000,20000),random.Next(5),(Gender)random.Next(3),name);
