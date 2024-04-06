@@ -12,3 +12,4 @@ C:\Users\radhi\OneDrive - Dunaújvárosi Egyetem\Dokumentumok\VSCodee\AnimalHosp
 C:\Users\radhi\OneDrive - Dunaújvárosi Egyetem\Dokumentumok\VSCodee\AnimalHospitalApp\obj\Debug\net8.0\AnimalHospitalApp.pdb
 C:\Users\radhi\OneDrive - Dunaújvárosi Egyetem\Dokumentumok\VSCodee\AnimalHospitalApp\obj\Debug\net8.0\AnimalHospitalApp.genruntimeconfig.cache
 C:\Users\radhi\OneDrive - Dunaújvárosi Egyetem\Dokumentumok\VSCodee\AnimalHospitalApp\obj\Debug\net8.0\ref\AnimalHospitalApp.dll
+C:\Users\radhi\OneDrive - Dunaújvárosi Egyetem\Dokumentumok\VSCodee\AnimalHospitalApp\obj\Debug\net8.0\AnimalHospitalApp.sourcelink.json

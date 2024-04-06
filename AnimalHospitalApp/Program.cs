@@ -20,6 +20,7 @@ namespace AnimalHospitalApp
                     AnimalIDInfo animalIDInfo = new AnimalIDInfo(animal);
                     writer.WriteLine(animalIDInfo.ToString());
                 }
+                writer.Close();
             }
         }
     }

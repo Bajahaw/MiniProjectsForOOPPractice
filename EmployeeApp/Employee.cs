@@ -1,7 +1,7 @@
 using EmployeeApp.Interfaces;
 namespace EmployeeApp
 {
-    public enum Gender { Female = 0, Male = 1 } // Don't change the indexes!
+    public enum Gender { Female = 0, Male = 1 }
     public abstract class Employee : IFullName
     {
         public int EmployeeId { get; set; }
