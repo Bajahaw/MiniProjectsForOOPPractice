@@ -52,8 +52,8 @@ namespace EmployeeApp.Helper
                 employee = new SystemEngineer(Id, firstName, lastName, 
                                         Convert.toEmailFormat(firstName, lastName), 
                                         Convert.toHungarianPhoneFormatOf(generateElementOf(phones)), 
-                                        gender, generateAddress(), 
-                                        rnd.NextDouble() * 100000.0);
+                                        gender, generateAddress(), rnd.NextDouble() * 1000.0, rnd.Next(3), rnd.NextDouble() * 10000.0, rnd.NextDouble() * 13.0
+                                        );
             else
                 employee = new Tester(Id, firstName, lastName, 
                                     Convert.toEmailFormat(firstName, lastName), 

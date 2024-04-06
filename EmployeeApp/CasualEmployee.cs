@@ -7,7 +7,7 @@ namespace EmployeeApp
         public double HourlyPrice { get; set; }
         public double TotalHours { get; set; }
         protected CasualEmployee(int employeeID, string firstName, string lastName, string email, 
-                                    string phone, Gender gender, Address address, int hourlyPrice,
+                                    string phone, Gender gender, Address address, double hourlyPrice,
                                     int systemsDesigned, double bonus, double totalHours)
         : base(employeeID, firstName, lastName, email, phone, gender, address)
         {
