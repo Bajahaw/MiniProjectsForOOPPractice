@@ -4,6 +4,7 @@ namespace CustomerApp
     public class Customer : Person
     {
         private int discount;
+        public int Discount;
         public string Email { set; get; }
         public string Phone { set; get; }
         public Gender Gender { set; get; }

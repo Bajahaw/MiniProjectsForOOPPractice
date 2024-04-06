@@ -2,7 +2,7 @@ namespace RhombusApp
 {
     class Rhombus
     {
-        float a;
+        float a; //side length
         float d1;
         float d2;
         public Rhombus(float a, float d1)

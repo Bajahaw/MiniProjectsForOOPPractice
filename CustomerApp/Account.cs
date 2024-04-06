@@ -6,7 +6,11 @@ namespace CustomerApp
         private double balance;
         public int ID { set; get; }
         public Customer Customer { set; get; }
-        public double Balance { set{Balance = balance;} get{ return balance;} }
+        public double Balance
+            { 
+                set{Balance = value;} 
+                get{ return balance;} 
+            }
         public Account(int id, Customer customer)
         {
             ID = id;
