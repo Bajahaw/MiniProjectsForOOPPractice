@@ -12,3 +12,4 @@ C:\Users\radhi\OneDrive - Dunaújvárosi Egyetem\Dokumentumok\VSCodee\RhombusApp
 C:\Users\radhi\OneDrive - Dunaújvárosi Egyetem\Dokumentumok\VSCodee\RhombusApp\obj\Debug\net8.0\RhombusApp.pdb
 C:\Users\radhi\OneDrive - Dunaújvárosi Egyetem\Dokumentumok\VSCodee\RhombusApp\obj\Debug\net8.0\RhombusApp.genruntimeconfig.cache
 C:\Users\radhi\OneDrive - Dunaújvárosi Egyetem\Dokumentumok\VSCodee\RhombusApp\obj\Debug\net8.0\ref\RhombusApp.dll
+C:\Users\radhi\OneDrive - Dunaújvárosi Egyetem\Dokumentumok\VSCodee\RhombusApp\obj\Debug\net8.0\RhombusApp.sourcelink.json
