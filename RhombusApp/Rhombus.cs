@@ -2,9 +2,9 @@ namespace RhombusApp
 {
     class Rhombus
     {
-        float a; //side length
-        float d1;
-        float d2;
+        private float a; //side length
+        private float d1;
+        private float d2;
         public Rhombus(float a, float d1)
         {
             this.a=a;
@@ -23,11 +23,11 @@ namespace RhombusApp
         {
             return d2;
         }
-        public double getArea()
+        private double getArea()
         {
             return (d1*d2)/2;
         }
-        public double getPerimeter()
+        private double getPerimeter()
         {
             return 4*a;
         }

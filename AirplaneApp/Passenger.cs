@@ -3,7 +3,7 @@ using System;
 namespace AirplaneApp
 {
     public enum Gender {Male,Female}
-    public class Passsenger
+    public class Passenger
     {
         public int Age{set; get;}
         public string Fullname{set; get;}

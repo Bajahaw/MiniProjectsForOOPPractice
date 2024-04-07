@@ -10,15 +10,15 @@ namespace ProductApp
     public enum Availability { Available, NotAvailable };
     internal class Product
     {
-        string code;
-        DateTime dateOfOutcome;
-        bool isAvailable;
-        string name;
-        double price;
+        private string code;
+        private DateTime dateOfOutcome;
+        private bool isAvailable;
+        private string name;
+        private double price;
 
         public String getAvailability()
         {
-            return isAvailable ? Availability.Available.ToString() : Availability.NotAvailable.ToString();
+            return EnumConvert.toString(isAvailable?Availability.Available:Availability.NotAvailable);
         }
         public string getCode()
         {

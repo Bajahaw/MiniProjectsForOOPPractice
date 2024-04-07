@@ -44,7 +44,30 @@ namespace CustomerApp.Helper
         }
         public static Person generatePerson()
         {
-            
+            Person person;
+            Gender gender = (Gender)rnd.Next(2);
+            string firstName = gender==Gender.F? generateElementOf(firstNames[0]):generateElementOf(firstNames[1]);
+            string lastName = generateElementOf(lastNames);
+            if(rnd.Next(2)==0)
+            {
+                person = new Customer(rnd.Next(100,1000),firstName,lastName,generateEmail(firstName,lastName),Convert.toHungarianPhoneFormatOf(generatePhone()),gender,generateAddress(),rnd.Next(1000));
+            }
+            else
+            {
+                if(rnd.Next(3)==0)
+                {
+                    person = new SalariedEmployee(rnd.Next(100,1000),firstName,lastName,generateStart(),rnd.Next(2)==0?true:false,rnd.NextDouble()*5000);
+                }
+                else if(rnd.Next(2)==0)
+                {
+                    person = new HourlyEmployee(rnd.Next(100,1000),firstName,lastName,generateStart(),rnd.Next(2)==0?true:false,rnd.NextDouble()*100,rnd.Next(200));
+                }
+                else 
+                {
+                    person = new BasePlusComissionEmployee(rnd.Next(100,1000),firstName,lastName,generateStart(),rnd.Next(2)==0?true:false,rnd.NextDouble()*100000,rnd.NextDouble()*1000,rnd.Next(100));
+                }
+            }
+            return person;
         }
         public static string generateEmail(string firstName, string lastName)
         {

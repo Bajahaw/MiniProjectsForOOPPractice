@@ -2,7 +2,7 @@ namespace TextApp
 {
     public class Text 
     {
-        string text;
+        private string text;
         public Text(string text)
         {
             this.text=text;

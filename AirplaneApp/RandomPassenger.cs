@@ -5,10 +5,10 @@ namespace AirplaneApp
     public class RandomPassenger
 
     {
-        string[] firstNamesFemale =  { "Alexandra", "Alison", "Maria", 
+        private string[] firstNamesFemale =  { "Alexandra", "Alison", "Maria", 
                                         "Sophie", "Wanda" };
-        string[] firstNamesMale = { "Brandon", "David", "Gordon", "Jonathan", "Peter" };
-        string[] lastNames = { "Abraham", "Campbell", "Elison", "Henderson", "Johnston" };
+        private string[] firstNamesMale = { "Brandon", "David", "Gordon", "Jonathan", "Peter" };
+        private string[] lastNames = { "Abraham", "Campbell", "Elison", "Henderson", "Johnston" };
         private Random rnd = new Random();
         private int generateAge()
         {
@@ -22,9 +22,9 @@ namespace AirplaneApp
         {
             return rnd.Next(2) == 0 ? Gender.Female : Gender.Male;
         }
-        public Passsenger generatePassenger()
+        public Passenger generatePassenger()
         {
-            Passsenger passsenger = new Passsenger();
+            Passenger passsenger = new Passenger();
             passsenger.Age = generateAge();
             passsenger.TravelID = generateTravelID();
             passsenger.Gender = generateGender();

@@ -4,7 +4,7 @@ namespace AirplaneApp
 {
     public class Airplane
     {
-        public double fuelConsumption;
+        private double fuelConsumption;
         public string Model
         {
             get; set;
@@ -21,7 +21,10 @@ namespace AirplaneApp
         {
             get; set;
         }
-        public List<Passsenger> passsengers;
+        public List<Passenger> passengers
+        {
+            get; set;
+        }
 
         public Airplane(int passengerCapacity, double range, int capacity, double level)
         {
@@ -29,7 +32,7 @@ namespace AirplaneApp
             Range = range;
             Tank = new FuelTank(capacity,level);
             fuelConsumption = capacity/range;
-            passsengers = new List<Passsenger>();
+            passengers = new List<Passenger>();
         }
 
         private void addFeul(double liter)
@@ -44,13 +47,13 @@ namespace AirplaneApp
             }
             
         }
-        public void AddPassenger(Passsenger passsenger)
+        public void AddPassenger(Passenger passenger)
         {
-            passsengers.Add(passsenger);
+            passengers.Add(passenger);
         }
         public void cruise(double kilometer)
         {
-            if(kilometer<=Range&&passsengers.Count!=0)
+            if(kilometer<=Range&&passengers.Count!=0)
             {
                 if(kilometer>(Tank.Level/fuelConsumption))
                 {
@@ -60,19 +63,19 @@ namespace AirplaneApp
                 Console.WriteLine("Aircraft model: "+Model);
                 Console.WriteLine("Current fuel level: "+Tank.Level);
 
-                for(int i=0;i<passsengers.Count;i++)
+                for(int i=0;i<passengers.Count;i++)
                 {
 
-                    Console.WriteLine("Passenger "+(i+1)+" :"+passsengers[i].TravelID+" "+passsengers.ElementAt(i).Fullname+ " " +passsengers.ElementAt(i).Gender.ToString());
+                    Console.WriteLine("Passenger "+(i+1)+" :"+passengers[i].TravelID+" "+passengers.ElementAt(i).Fullname+ " " +passengers.ElementAt(i).Gender.ToString());
                 }
                 Console.WriteLine("Landed!");
                 Console.WriteLine("Fuel remainig: "+ (Tank.Level-kilometer*fuelConsumption));
 
             }
         }
-        public void removePassenger(Passsenger passsenger)
+        public void removePassenger(Passenger passsenger)
         {
-            passsengers.Remove(passsenger);
+            passengers.Remove(passsenger);
         }
     }
 }

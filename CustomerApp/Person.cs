@@ -1,3 +1,4 @@
+using System;
 namespace CustomerApp
 {
     public enum Gender { F, M }
@@ -19,6 +20,5 @@ namespace CustomerApp
         {
             return $"{FirstName} {LastName} ({ID})";
         }
-        
     }
 }

@@ -7,17 +7,17 @@ namespace CircleApp
         {
             this.r=r;
         }
-        public double getSpace()
+        private double getArea()
         {
             return r * r * Math.PI;
         }
-        public double getPerimeter()
+        private double getPerimeter()
         {
             return 2 * r * Math.PI;
         }
         public override string ToString()
         {
-            return $"Circle radius: {r}\nCircle space: {getSpace()}\nCircle perimeter: {getPerimeter()}";
+            return $"Circle radius: {r}\nCircle space: {getArea()}\nCircle perimeter: {getPerimeter()}";
         }
     }
 }

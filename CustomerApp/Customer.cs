@@ -4,7 +4,11 @@ namespace CustomerApp
     public class Customer : Person
     {
         private int discount;
-        public int Discount;
+        public int Discount 
+        {
+            set{ discount = value; }
+            get{ return discount; }
+        }
         public string Email { set; get; }
         public string Phone { set; get; }
         public Gender Gender { set; get; }
@@ -18,6 +22,7 @@ namespace CustomerApp
             Phone = phone;
             Gender = gender;
             Adress = adress;
+            Discount = discount;
         }
 
         public override string ToString()

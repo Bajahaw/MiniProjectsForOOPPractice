@@ -8,7 +8,9 @@ namespace CalculatorApp
         }
         public double Divide(double a, double b)
         {
-            return a / b;
+            if(b!=0)
+                return a / b;
+            return double.NaN;
         }
         public double Multiply(double a, double b)
         {
