@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\DirectoryOperationApp\\DirectoryOperationApp.csproj",
+      "projectUniqueName": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\DirectoryOperationApp\\DirectoryOperationApp.csproj",
       "projectName": "DirectoryOperationApp",
-      "projectPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\DirectoryOperationApp\\DirectoryOperationApp.csproj",
+      "projectPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\DirectoryOperationApp\\DirectoryOperationApp.csproj",
       "packagesPath": "C:\\Users\\radhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\DirectoryOperationApp\\obj\\",
+      "outputPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\DirectoryOperationApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\radhi\\AppData\\Roaming\\NuGet\\NuGet.Config"

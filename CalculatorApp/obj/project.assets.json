@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\CalculatorApp\\CalculatorApp.csproj",
+      "projectUniqueName": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\CalculatorApp\\CalculatorApp.csproj",
       "projectName": "CalculatorApp",
-      "projectPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\CalculatorApp\\CalculatorApp.csproj",
+      "projectPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\CalculatorApp\\CalculatorApp.csproj",
       "packagesPath": "C:\\Users\\radhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\CalculatorApp\\obj\\",
+      "outputPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\CalculatorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\radhi\\AppData\\Roaming\\NuGet\\NuGet.Config"

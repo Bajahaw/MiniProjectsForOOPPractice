@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\AnimalHospitalApp\\AnimalHospitalApp.csproj",
+      "projectUniqueName": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\AnimalHospitalApp\\AnimalHospitalApp.csproj",
       "projectName": "AnimalHospitalApp",
-      "projectPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\AnimalHospitalApp\\AnimalHospitalApp.csproj",
+      "projectPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\AnimalHospitalApp\\AnimalHospitalApp.csproj",
       "packagesPath": "C:\\Users\\radhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\AnimalHospitalApp\\obj\\",
+      "outputPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\AnimalHospitalApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\radhi\\AppData\\Roaming\\NuGet\\NuGet.Config"

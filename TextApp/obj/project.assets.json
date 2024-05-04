@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\TextApp\\TextApp.csproj",
+      "projectUniqueName": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\TextApp\\TextApp.csproj",
       "projectName": "TextApp",
-      "projectPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\TextApp\\TextApp.csproj",
+      "projectPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\TextApp\\TextApp.csproj",
       "packagesPath": "C:\\Users\\radhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\TextApp\\obj\\",
+      "outputPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\TextApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\radhi\\AppData\\Roaming\\NuGet\\NuGet.Config"

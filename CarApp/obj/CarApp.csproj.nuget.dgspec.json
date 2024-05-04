@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\CarApp\\CarApp.csproj": {}
+    "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\CarApp\\CarApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\CarApp\\CarApp.csproj": {
+    "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\CarApp\\CarApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\CarApp\\CarApp.csproj",
+        "projectUniqueName": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\CarApp\\CarApp.csproj",
         "projectName": "CarApp",
-        "projectPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\CarApp\\CarApp.csproj",
+        "projectPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\CarApp\\CarApp.csproj",
         "packagesPath": "C:\\Users\\radhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\VSCodee\\CarApp\\obj\\",
+        "outputPath": "C:\\Users\\radhi\\OneDrive - Dunaújvárosi Egyetem\\Dokumentumok\\MiniProjectsForOOPPractice\\MiniProjectsForOOPPractice\\CarApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\radhi\\AppData\\Roaming\\NuGet\\NuGet.Config"
