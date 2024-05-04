@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpidemicApp", "EpidemicApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileDownloaderApp", "FileDownloaderApp\FileDownloaderApp.csproj", "{28EB8C40-7819-4F7B-B786-CEAE428E46E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exoplanet", "Exoplanet\Exoplanet.csproj", "{7F212625-E899-442C-B75B-2C8E650012AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,10 @@ Global
 		{28EB8C40-7819-4F7B-B786-CEAE428E46E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28EB8C40-7819-4F7B-B786-CEAE428E46E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28EB8C40-7819-4F7B-B786-CEAE428E46E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F212625-E899-442C-B75B-2C8E650012AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F212625-E899-442C-B75B-2C8E650012AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F212625-E899-442C-B75B-2C8E650012AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F212625-E899-442C-B75B-2C8E650012AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
