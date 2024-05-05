@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DirectoryOperationApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b62f135405362c95f03ee38f5848381084461d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+908c1cc3a2b25bf1a5b5ea39626b1114be2c5d75")]
 [assembly: System.Reflection.AssemblyProductAttribute("DirectoryOperationApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DirectoryOperationApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

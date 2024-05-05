@@ -34,9 +34,10 @@ namespace EmployeeApp
             //return contactInfo;
 
             // shortest form
-            return (from c in DataSource.contacts
-                    where c.ID == id
-                    select c).FirstOrDefault(); // extension method
+            //return (from c in DataSource.contacts
+            //        where c.ID == id
+            //        select c).FirstOrDefault(); // extension method
+            return DataSource.contacts.FirstOrDefault(c => c.ID == id);
         }
 
         public override string ToString()
