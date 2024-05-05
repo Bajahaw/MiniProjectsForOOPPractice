@@ -25,10 +25,6 @@ Navigate to the project directory of your choice and open the solution file in y
 
 Not expecting anyone to contribute because there is nothing to do here, but generaly contributions are welcome! If you have any ideas for new mini OOP projects or improvements to existing ones, feel free to create a pull request.
 
-## License
-
-This project is open-source and available under the MIT License. See the LICENSE file for more details.
-
 ## Contact
 
 If you have any questions or feedback, please open an issue in the repository.
