@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exoplanet", "Exoplanet\Exop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "Employee\Employee.csproj", "{1F465B9A-99B5-46AE-BEA4-95E885983F71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleApp", "VehicleApp\VehicleApp.csproj", "{AC8519D9-D59A-45FE-A7CF-121ADE986017}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +115,10 @@ Global
 		{1F465B9A-99B5-46AE-BEA4-95E885983F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F465B9A-99B5-46AE-BEA4-95E885983F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F465B9A-99B5-46AE-BEA4-95E885983F71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8519D9-D59A-45FE-A7CF-121ADE986017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8519D9-D59A-45FE-A7CF-121ADE986017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8519D9-D59A-45FE-A7CF-121ADE986017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8519D9-D59A-45FE-A7CF-121ADE986017}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
