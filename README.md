@@ -19,8 +19,9 @@ This repository contains a collection of mini projects designed to help you prac
 13. **ProductApp**: An application for managing product data.
 14. **RhombusApp**: An application focusing on the properties and operations of a rhombus.
 15. **ShapeApp**: An application for managing different shapes and their properties.
-16. **TextApp**: An application for managing and manipulating text.
-17. **VehicleApp**: A simulation of vehicle operations and attributes.
+16. **StaffApp**: An app for playing around with xml format.
+17. **TextApp**: An application for managing and manipulating text.
+18. **VehicleApp**: A simulation of vehicle operations and attributes.
 
 ## Getting Started
 
