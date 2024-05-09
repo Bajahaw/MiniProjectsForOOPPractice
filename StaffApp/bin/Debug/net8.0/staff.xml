@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Staff>
+  <Member Id="21" Dept="Marketing">
+    <Name>Mark B. Harbour</Name>
+    <Grade>6</Grade>
+    <Salary>20000</Salary>
+    <Phone>
+      <Home>973-475-1512</Home>
+      <Work>937-823-2348</Work>
+    </Phone>
+    <Address>
+      <Type>Postal</Type>
+      <Street>3971 Ingram Street</Street>
+      <City>Dayton</City>
+      <State>Ohio(OH)</State>
+      <Zip>45402</Zip>
+      <Country>USA</Country>
+    </Address>
+  </Member>
+  <Member Id="23" Dept="Sales">
+    <Name>Charles M Stewart</Name>
+    <Grade>6</Grade>
+    <Salary>22000</Salary>
+    <Bonus>0.03</Bonus>
+    <Phone>
+      <Home>740-803-7350</Home>
+      <Work>740-272-9206</Work>
+    </Phone>
+    <Address>
+      <Type>Postal</Type>
+      <Street>3483</Street>
+      <City>Delaware</City>
+      <State>Ohio(OH)</State>
+      <Zip>43015</Zip>
+      <Country>USA</Country>
+    </Address>
+  </Member>
+  <Member Id="24" Dept="Sales">
+    <Name>Liz Elbow</Name>
+    <Grade>5</Grade>
+    <Salary>22500</Salary>
+    <Bonus>0.02</Bonus>
+    <Phone>
+      <Home>863-474-6774</Home>
+      <Work>305-201-9879</Work>
+    </Phone>
+    <Address>
+      <Type>Permannt</Type>
+      <Street>1732 Single Street</Street>
+      <City>Cambridge</City>
+      <State>Massachusetts(MA)</State>
+      <Zip>2141</Zip>
+      <Country>USA</Country>
+    </Address>
+  </Member>
+  <Member Id="27" Dept="Accounts">
+    <Name>Fred L Slowik</Name>
+    <Grade>4</Grade>
+    <Salary>28000</Salary>
+    <Phone>
+      <Home>925-469-7343</Home>
+      <Work>818-421-8113</Work>
+    </Phone>
+    <Address>
+      <Type>Permannt</Type>
+      <Street>4860 Canis Heights Drive</Street>
+      <City>Los Angeles</City>
+      <State>California(CA)</State>
+      <Zip>90071</Zip>
+      <Country>USA</Country>
+    </Address>
+  </Member>
+  <Member Id="28" Dept="Marketing">
+    <Name>John E Anderson</Name>
+    <Grade>4</Grade>
+    <Salary>27000</Salary>
+    <Phone>
+      <Home>305-300-4999</Home>
+      <Work>561-754-9754</Work>
+    </Phone>
+    <Address>
+      <Type>Postal</Type>
+      <Street>881 Fincham Road</Street>
+      <City>Palm Springs</City>
+      <State>California(CA)</State>
+      <Zip>92262</Zip>
+      <Country>USA</Country>
+    </Address>
+  </Member>
+  <Member Id="31" Dept="Marketing">
+    <Name>Anthony J Wilkerson</Name>
+    <Grade>6</Grade>
+    <Salary>18000</Salary>
+    <Phone>
+      <Home>401-770-0840</Home>
+      <Work>401-309-1510</Work>
+    </Phone>
+    <Address>
+      <Type>Permannt</Type>
+      <Street>3020 Oakdale Avenue</Street>
+      <City>Avon Park</City>
+      <State>Florida(FL)</State>
+      <Zip>33825</Zip>
+      <Country>USA</Country>
+    </Address>
+  </Member>
+</Staff>
