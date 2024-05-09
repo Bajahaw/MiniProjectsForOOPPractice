@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AthleticsApp", "AthleticsAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaffApp", "StaffApp\StaffApp.csproj", "{38E42A9A-0757-486A-9FFB-BBF5901DD6CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductAppp", "ProductAppp\ProductAppp.csproj", "{D8CD0D20-BB67-436E-9351-040CE7204262}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +133,10 @@ Global
 		{38E42A9A-0757-486A-9FFB-BBF5901DD6CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38E42A9A-0757-486A-9FFB-BBF5901DD6CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38E42A9A-0757-486A-9FFB-BBF5901DD6CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8CD0D20-BB67-436E-9351-040CE7204262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8CD0D20-BB67-436E-9351-040CE7204262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8CD0D20-BB67-436E-9351-040CE7204262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8CD0D20-BB67-436E-9351-040CE7204262}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -17,11 +17,12 @@ This repository contains a collection of mini projects designed to help you prac
 11. **ExoplanetApp**: An application for managing data about exoplanets.
 12. **FileDownloaderApp**: An application for downloading files.
 13. **ProductApp**: An application for managing product data.
-14. **RhombusApp**: An application focusing on the properties and operations of a rhombus.
-15. **ShapeApp**: An application for managing different shapes and their properties.
-16. **StaffApp**: An app for playing around with xml format.
-17. **TextApp**: An application for managing and manipulating text.
-18. **VehicleApp**: A simulation of vehicle operations and attributes.
+14. **ProductAppp**: An application for storing products in repos using generics.
+15. **RhombusApp**: An application focusing on the properties and operations of a rhombus.
+16. **ShapeApp**: An application for managing different shapes and their properties.
+17. **StaffApp**: An app for playing around with xml format.
+18. **TextApp**: An application for managing and manipulating text.
+19. **VehicleApp**: A simulation of vehicle operations and attributes.
 
 ## Getting Started
 
